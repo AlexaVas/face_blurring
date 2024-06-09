@@ -34,7 +34,7 @@ export default function Experience({ editMode }) {
       {/* <Perf position="top-left" /> */}
 
       <OrbitControls
-        enablePan={true}
+        enablePan={false}
         rotateSpeed={-0.5}
         minDistance={1}
         maxDistance={1}
